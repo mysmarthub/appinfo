@@ -191,3 +191,24 @@ Multi Passwords Generator gui (Linux, Windows)
 ![Image alt](https://github.com/mysmarthub/multipassgen/raw/master/images/logo.png)
 
 ---
+Smart Cleaner (for Windows)
+===
+    
+    Graphical utility for destroying,
+    zeroing, and deleting files.
+
+>Created: Aleksandr Suvorov
+
+[![GitHub all releases](https://img.shields.io/github/downloads/mysmarthub/winsmartcleaner/total?label=github%20downloads)](https://github.com/mysmarthub/winsmartcleaner)
+[![GitHub](https://img.shields.io/github/license/mysmarthub/winsmartcleaner)](https://github.com/mysmarthub/winsmartcleaner)
+[![GitHub Repo stars](https://img.shields.io/github/stars/mysmarthub/winsmartcleaner?style=social)](https://github.com/mysmarthub/winsmartcleaner)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/mysmarthub/winsmartcleaner)](https://github.com/mysmarthub/winsmartcleaner)
+
+[![Download Smart Cleaner (For Windows)](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/smart-cleaner-for-windows/files/latest/download)
+[![Download Smart Cleaner (For Windows)](https://img.shields.io/sourceforge/dt/smart-cleaner-for-windows.svg)](https://sourceforge.net/projects/smart-cleaner-for-windows/files/latest/download)
+
+---
+
+![Smart Cleaner (Windows, Linux)](https://github.com/mysmarthub/winsmartcleaner/raw/master/images/logo.png)
+
+---

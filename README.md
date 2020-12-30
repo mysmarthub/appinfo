@@ -114,7 +114,7 @@ Linux Auto Fix
 >Created: Aleksandr Suvorov
 ---
 
-![Linux Auto Fix](https://github.com/mysmarthub/linuxautofix/raw/master/images/logo.png)
+![Linux Auto Fix](https://github.com/mysmarthub/linuxautofix/raw/master/images/linuxautofix_logo.png)
 
 [![PyPI](https://img.shields.io/pypi/v/linuxautofix)](https://pypi.org/project/linuxautofix)
 [![PyPI - Downloads](https://img.shields.io/pypi/dm/linuxautofix)](https://pypi.org/project/linuxautofix)

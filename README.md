@@ -4,10 +4,12 @@ Information on projects
 My cleaner
 ===
 
-    A package of modules and console utilities for destroying,
-    zeroing, and deleting files.
+>A package of modules and console utilities for destroying, 
+zeroing, and deleting files.
 
 >Created: Aleksandr Suvorov
+
+[![Mycleaner](https://github.com/mysmarthub/mycleaner/raw/master/images/logo.png)](https://github.com/mysmarthub/mycleaner/)
 
 [![PyPI - Downloads](https://img.shields.io/pypi/dm/mycleaner?label=pypi%20downloads)](https://pypi.org/project/mycleaner/)
 [![PyPI](https://img.shields.io/pypi/v/mycleaner)](https://pypi.org/project/mycleaner/)
@@ -23,14 +25,10 @@ My cleaner
 [![Download mycleaner](https://img.shields.io/sourceforge/dt/mycleaner-package.svg)](https://sourceforge.net/projects/mycleaner-package/files/latest/download)
 ---
 
-[![Mycleaner](https://github.com/mysmarthub/mycleaner/raw/master/images/logo.png)](https://github.com/mysmarthub/mycleaner/)
-
----
-
 Smart Cleaner
 ==============
 
-    Gui utilities for destroying, zeroing, and deleting files.
+>Gui utilities for destroying, zeroing, and deleting files.
 
 >Created: Aleksandr Suvorov
 
@@ -49,23 +47,24 @@ Smart Cleaner
 Smart Cleaner Windows version download:
 ---
 
+![Smart Cleaner](https://github.com/mysmarthub/smartcleaner/raw/master/images/logo.png)
+
 [![Download Smart Cleaner (For Windows)](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/smart-cleaner-for-windows/files/latest/download)
 [![Download Smart Cleaner (For Windows)](https://img.shields.io/sourceforge/dt/smart-cleaner-for-windows.svg)](https://sourceforge.net/projects/smart-cleaner-for-windows/files/latest/download)
 
 [Github - Smart Cleaner (For Windorws)](https://github.com/mysmarthub/winsmartcleaner)
 
----
-
-![Smart Cleaner](https://github.com/mysmarthub/smartcleaner/raw/master/images/logo.png)
 
 ---
 Commandoro
 ===
 
-    Utility for automatic command execution
+>Utility for automatic command execution
 
 >Created: Aleksandr Suvorov
 ---
+[![Commandoro](https://github.com/mysmarthub/commandoro/raw/master/images/logo.png)](https://github.com/mysmarthub/commandoro)
+
 [![PyPI](https://img.shields.io/pypi/v/commandoro)](http://pypi.org/project/commandoro)
 [![PyPI - Implementation](https://img.shields.io/pypi/implementation/commandoro)](http://pypi.org/project/commandoro)
 [![PyPI - Downloads](https://img.shields.io/pypi/dm/commandoro)](http://pypi.org/project/commandoro)
@@ -82,16 +81,14 @@ Commandoro
 [![Download Commandoro](https://img.shields.io/sourceforge/dt/commandoro.svg)](https://sourceforge.net/projects/commandoro/files/latest/download)
 ---
 
-[![Commandoro](https://github.com/mysmarthub/commandoro/raw/master/images/logo.png)](https://github.com/mysmarthub/commandoro)
-
----
 Smart Files Destroyer
 ===
     
-    Console utilities for destruction,
-    zeroing, and deleting files.
+>Console utilities for destruction, zeroing, and deleting files.
 
 >Created: Aleksandr Suvorov
+
+![Smart Files Destroyer](https://github.com/mysmarthub/sfd/raw/master/images/logo.png)
 
 [![PyPI](https://img.shields.io/pypi/v/sfd)](https://pypi.org/project/sfd)
 [![PyPI - Format](https://img.shields.io/pypi/format/sfd)](https://pypi.org/project/sfd)
@@ -107,21 +104,19 @@ Smart Files Destroyer
 
 [![Download Smart Files Destroyer](https://img.shields.io/sourceforge/dt/smart-files-destroyer.svg)](https://sourceforge.net/projects/smart-files-destroyer/files/latest/download)
 
----
-
-![Smart Files Destroyer](https://github.com/mysmarthub/sfd/raw/master/images/logo.png)
 
 ---
 Linux Auto Fix
 ===
-    
-    Console utility for auto-configuration of Linux distributions after installation
-    
-    
+
+>Console utility for auto-configuration of Linux distributions after installation
 
 >Created: Aleksandr Suvorov
 ---
-[![PyPI](https://img.shields.io/pypi/v/linuxautofix)](https://pypi.org/project/linuxautofix) 
+
+![Linux Auto Fix](https://github.com/mysmarthub/linuxautofix/raw/master/images/logo.png)
+
+[![PyPI](https://img.shields.io/pypi/v/linuxautofix)](https://pypi.org/project/linuxautofix)
 [![PyPI - Downloads](https://img.shields.io/pypi/dm/linuxautofix)](https://pypi.org/project/linuxautofix)
 [![PyPI - Wheel](https://img.shields.io/pypi/wheel/linuxautofix)](https://pypi.org/project/linuxautofix)
 [![GitHub all releases](https://img.shields.io/github/downloads/mysmarthub/linuxautofix/total)](https://github.com/mysmarthub/linuxautofix/)
@@ -130,22 +125,24 @@ Linux Auto Fix
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/mysmarthub/linuxautofix)](https://github.com/mysmarthub/linuxautofix/)
 [![GitHub repo size](https://img.shields.io/github/repo-size/mysmarthub/linuxautofix)](https://github.com/mysmarthub/linuxautofix/)
 [![GitHub Repo stars](https://img.shields.io/github/stars/mysmarthub/linuxautofix?style=social)](https://github.com/mysmarthub/linuxautofix/)
+
 ---
 [![Download Linux Auto Fix](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/linuxautofix/files/latest/download)
 
 [![Download Linux Auto Fix](https://img.shields.io/sourceforge/dt/linuxautofix.svg)](https://sourceforge.net/projects/linuxautofix/files/latest/download)
 
----
-
-![Linux Auto Fix](https://github.com/mysmarthub/linuxautofix/raw/master/images/logo.png)
 
 ---
+
 Mpassgen
 ===
-    Module and console utility for generating complex passwords
+>Module and console utility for generating complex passwords
+
 >Created: Aleksandr Suvorov
 
 ---
+
+![Image alt](https://github.com/mysmarthub/mpassgen/raw/master/images/logo.png)
 
 [![PyPI - Downloads](https://img.shields.io/pypi/dm/mpassgen?label=Pypi%20downloads)](https://pypi.org/project/mpassgen)
 [![PyPI](https://img.shields.io/pypi/v/mpassgen)](https://pypi.org/project/mpassgen)
@@ -161,16 +158,18 @@ Mpassgen
 [![Download Multi Passwords Generator](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/mpassgen/files/latest/download)
 [![Download Multi Passwords Generator](https://img.shields.io/sourceforge/dt/mpassgen.svg)](https://sourceforge.net/projects/mpassgen/files/latest/download)
 
----
-
-![Image alt](https://github.com/mysmarthub/mpassgen/raw/master/images/logo.png)
 
 ---
 Multi Passwords Generator gui (Linux, Windows)
 ---
-    Graphical cross-platform application for generating passwords.
+
+>Graphical cross-platform application for generating passwords.
+
 >Created: Aleksandr Suvorov
+
 ---
+
+![Image alt](https://github.com/mysmarthub/multipassgen/raw/master/images/logo.png)
 
 [![PyPI - Downloads](https://img.shields.io/pypi/dm/multipassgen)](https://pypi.org/project/multipassgen)
 [![PyPI](https://img.shields.io/pypi/v/multipassgen)](https://pypi.org/project/multipassgen)
@@ -187,17 +186,14 @@ Multi Passwords Generator gui (Linux, Windows)
 [![Download multipassgen](https://img.shields.io/sourceforge/dt/multipassgen.svg)](https://sourceforge.net/projects/multipassgen/files/latest/download)
 
 ---
-
-![Image alt](https://github.com/mysmarthub/multipassgen/raw/master/images/logo.png)
-
----
 Smart Cleaner (for Windows)
 ===
     
-    Graphical utility for destroying,
-    zeroing, and deleting files.
+>Graphical utility for destroying, zeroing, and deleting files.
 
 >Created: Aleksandr Suvorov
+
+![Smart Cleaner (Windows, Linux)](https://github.com/mysmarthub/winsmartcleaner/raw/master/images/logo.png)
 
 [![GitHub all releases](https://img.shields.io/github/downloads/mysmarthub/winsmartcleaner/total?label=github%20downloads)](https://github.com/mysmarthub/winsmartcleaner)
 [![GitHub](https://img.shields.io/github/license/mysmarthub/winsmartcleaner)](https://github.com/mysmarthub/winsmartcleaner)
@@ -206,9 +202,5 @@ Smart Cleaner (for Windows)
 
 [![Download Smart Cleaner (For Windows)](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/smart-cleaner-for-windows/files/latest/download)
 [![Download Smart Cleaner (For Windows)](https://img.shields.io/sourceforge/dt/smart-cleaner-for-windows.svg)](https://sourceforge.net/projects/smart-cleaner-for-windows/files/latest/download)
-
----
-
-![Smart Cleaner (Windows, Linux)](https://github.com/mysmarthub/winsmartcleaner/raw/master/images/logo.png)
 
 ---

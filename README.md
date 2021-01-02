@@ -47,7 +47,7 @@ Smart Cleaner
 Smart Cleaner Windows version download:
 ---
 
-![Smart Cleaner](https://github.com/mysmarthub/smartcleaner/raw/master/images/logo.png)
+![Smart Cleaner](https://github.com/mysmarthub/smartcleaner/raw/master/images/smart_cleaner_logo.png)
 
 [![Download Smart Cleaner (For Windows)](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/smart-cleaner-for-windows/files/latest/download)
 [![Download Smart Cleaner (For Windows)](https://img.shields.io/sourceforge/dt/smart-cleaner-for-windows.svg)](https://sourceforge.net/projects/smart-cleaner-for-windows/files/latest/download)
@@ -63,7 +63,7 @@ Commandoro
 
 >Created: Aleksandr Suvorov
 ---
-[![Commandoro](https://github.com/mysmarthub/commandoro/raw/master/images/logo.png)](https://github.com/mysmarthub/commandoro)
+[![Commandoro](https://github.com/mysmarthub/commandoro/raw/master/images/commandoro.png)](https://github.com/mysmarthub/commandoro)
 
 [![PyPI](https://img.shields.io/pypi/v/commandoro)](http://pypi.org/project/commandoro)
 [![PyPI - Implementation](https://img.shields.io/pypi/implementation/commandoro)](http://pypi.org/project/commandoro)
@@ -88,14 +88,14 @@ Smart Files Destroyer
 
 >Created: Aleksandr Suvorov
 
-![Smart Files Destroyer](https://github.com/mysmarthub/sfd/raw/master/images/logo.png)
+![Smart Files Destroyer](https://github.com/mysmarthub/sfd/raw/master/images/sfd_logo.png)
 
 [![PyPI](https://img.shields.io/pypi/v/sfd)](https://pypi.org/project/sfd)
 [![PyPI - Format](https://img.shields.io/pypi/format/sfd)](https://pypi.org/project/sfd)
 [![PyPI - Downloads](https://img.shields.io/pypi/dm/sfd?label=pypi%20downloads)](https://pypi.org/project/sfd)
 [![GitHub repo size](https://img.shields.io/github/repo-size/mysmarthub/sfd)](https://github.com/mysmarthub/sfd/)
 [![GitHub all releases](https://img.shields.io/github/downloads/mysmarthub/sfd/total?label=github%20downloads)](https://github.com/mysmarthub/sfd/)
-[![GitHub](https://img.shields.io/github/license/mysmarthub/sfd)](https://github.com/mysmarthub/sfd/)
+[![GitHub](https://img.shields.io/github/license/mysmarthub/sfd?style=flat-square)](https://github.com/mysmarthub/sfd/)
 [![GitHub Repo stars](https://img.shields.io/github/stars/mysmarthub/sfd?style=social)](https://github.com/mysmarthub/sfd/)
 [![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/mysmarthub/sfd)](https://github.com/mysmarthub/sfd/)
 
@@ -114,7 +114,7 @@ Linux Auto Fix
 >Created: Aleksandr Suvorov
 ---
 
-![Linux Auto Fix](https://github.com/mysmarthub/linuxautofix/raw/master/images/logo.png)
+![Linux Auto Fix](https://github.com/mysmarthub/linuxautofix/raw/master/images/linuxautofix_logo.png)
 
 [![PyPI](https://img.shields.io/pypi/v/linuxautofix)](https://pypi.org/project/linuxautofix)
 [![PyPI - Downloads](https://img.shields.io/pypi/dm/linuxautofix)](https://pypi.org/project/linuxautofix)
@@ -184,23 +184,3 @@ Multi Passwords Generator gui (Linux, Windows)
 [![Download multipassgen](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/multipassgen/files/latest/download)
 
 [![Download multipassgen](https://img.shields.io/sourceforge/dt/multipassgen.svg)](https://sourceforge.net/projects/multipassgen/files/latest/download)
-
----
-Smart Cleaner (for Windows)
-===
-    
->Graphical utility for destroying, zeroing, and deleting files.
-
->Created: Aleksandr Suvorov
-
-![Smart Cleaner (Windows, Linux)](https://github.com/mysmarthub/winsmartcleaner/raw/master/images/logo.png)
-
-[![GitHub all releases](https://img.shields.io/github/downloads/mysmarthub/winsmartcleaner/total?label=github%20downloads)](https://github.com/mysmarthub/winsmartcleaner)
-[![GitHub](https://img.shields.io/github/license/mysmarthub/winsmartcleaner)](https://github.com/mysmarthub/winsmartcleaner)
-[![GitHub Repo stars](https://img.shields.io/github/stars/mysmarthub/winsmartcleaner?style=social)](https://github.com/mysmarthub/winsmartcleaner)
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/mysmarthub/winsmartcleaner)](https://github.com/mysmarthub/winsmartcleaner)
-
-[![Download Smart Cleaner (For Windows)](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/smart-cleaner-for-windows/files/latest/download)
-[![Download Smart Cleaner (For Windows)](https://img.shields.io/sourceforge/dt/smart-cleaner-for-windows.svg)](https://sourceforge.net/projects/smart-cleaner-for-windows/files/latest/download)
-
----

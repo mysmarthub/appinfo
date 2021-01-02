@@ -9,7 +9,7 @@ zeroing, and deleting files.
 
 >Created: Aleksandr Suvorov
 
-[![Mycleaner](https://github.com/mysmarthub/mycleaner/raw/master/images/logo.png)](https://github.com/mysmarthub/mycleaner/)
+[![Mycleaner](https://github.com/mysmarthub/mycleaner/raw/master/images/my_cleaner_logo.png)](https://github.com/mysmarthub/mycleaner/)
 
 [![PyPI - Downloads](https://img.shields.io/pypi/dm/mycleaner?label=pypi%20downloads)](https://pypi.org/project/mycleaner/)
 [![PyPI](https://img.shields.io/pypi/v/mycleaner)](https://pypi.org/project/mycleaner/)

@@ -64,6 +64,7 @@ Commandoro
 >Created: Aleksandr Suvorov
 ---
 [![Commandoro](https://github.com/mysmarthub/commandoro/raw/master/images/commandoro.png)](https://github.com/mysmarthub/commandoro)
+[![Commandoro](https://github.com/mysmarthub/commandoro/raw/master/images/commandoro_gui.png)](https://github.com/mysmarthub/commandoro)
 
 [![PyPI](https://img.shields.io/pypi/v/commandoro)](http://pypi.org/project/commandoro)
 [![PyPI - Implementation](https://img.shields.io/pypi/implementation/commandoro)](http://pypi.org/project/commandoro)

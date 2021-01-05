@@ -1,4 +1,4 @@
-Information on projects
+Projects information
 ===
 ---
 My cleaner

@@ -1,7 +1,7 @@
 Projects information
 ===
 ---
-My cleaner
+[My cleaner](https://github.com/mysmarthub/mycleaner)
 ===
 
 >A package of modules and CLI utility for destroying, zeroing, and deleting files.
@@ -25,7 +25,7 @@ My cleaner
 [![Download mycleaner](https://img.shields.io/sourceforge/dt/mycleaner-package.svg)](https://sourceforge.net/projects/mycleaner-package/files/latest/download)
 ---
 
-Smart Cleaner
+[Smart Cleaner](https://github.com/mysmarthub/smartcleaner)
 ==============
 
 >Graphical utility for destroying, zeroing, and deleting files, to complicate or completely impossible to restore them.
@@ -47,7 +47,7 @@ Smart Cleaner
 
 ---
 
-Smart Cleaner Windows version download:
+[Smart Cleaner Windows version download:](https://sourceforge.net/projects/smart-cleaner-for-windows/files/latest/download)
 ---
 
 ![Smart Cleaner](https://github.com/mysmarthub/smartcleaner/raw/master/images/smart_cleaner_logo.png)
@@ -59,7 +59,7 @@ Smart Cleaner Windows version download:
 
 
 ---
-Commandoro
+[Commandoro](https://github.com/mysmarthub/commandoro)
 ===
 
 >Console and graphical utility for automating command execution.
@@ -87,7 +87,7 @@ Commandoro
 [![Download Commandoro](https://img.shields.io/sourceforge/dt/commandoro.svg)](https://sourceforge.net/projects/commandoro/files/latest/download)
 ---
 
-Smart Files Destroyer
+[Smart Files Destroyer](https://github.com/mysmarthub/sfd)
 ===
     
 >CLI utility for destroying, zeroing, and deleting files.
@@ -114,7 +114,7 @@ Smart Files Destroyer
 
 
 ---
-Linux Auto Fix
+[Linux Auto Fix](https://github.com/mysmarthub/linuxautofix)
 ===
 
 >Console utility for automatic command execution, and auto-tuning Linux distributions after installation
@@ -143,7 +143,7 @@ Linux Auto Fix
 
 ---
 
-Mpassgen
+[Mpassgen](https://github.com/mysmarthub/mpassgen)
 ===
 >Module and console utility for generating complex passwords
 
@@ -169,7 +169,7 @@ Mpassgen
 
 
 ---
-Multi Passwords Generator gui (Linux, Windows)
+[Multi Passwords Generator gui (Linux, Windows)](https://github.com/mysmarthub/multipassgen)
 ---
 
 >Graphical cross-platform application for generating passwords.

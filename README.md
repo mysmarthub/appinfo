@@ -4,10 +4,9 @@ Projects information
 My cleaner
 ===
 
->A package of modules and console utilities for destroying, 
-zeroing, and deleting files.
+>A package of modules and CLI utility for destroying, zeroing, and deleting files.
 
->Created: Aleksandr Suvorov
+>Author and developer: Aleksandr Suvorov
 
 [![Mycleaner](https://github.com/mysmarthub/mycleaner/raw/master/images/my_cleaner_logo.png)](https://github.com/mysmarthub/mycleaner/)
 
@@ -18,8 +17,9 @@ zeroing, and deleting files.
 [![GitHub all releases](https://img.shields.io/github/downloads/mysmarthub/mycleaner/total?label=github%20downloads)](https://github.com/mysmarthub/mycleaner/)
 [![GitHub](https://img.shields.io/github/license/mysmarthub/mycleaner?style=flat-square)](https://github.com/mysmarthub/mycleaner/)
 [![GitHub Repo stars](https://img.shields.io/github/stars/mysmarthub/mycleaner?style=social)](https://github.com/mysmarthub/mycleaner)
+![GitHub watchers](https://img.shields.io/github/watchers/mysmarthub/mycleaner?style=social)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/mysmarthub/mycleaner)](https://github.com/mysmarthub/mycleaner/)
-
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/mysmarthub/mycleaner)
 ---
 [![Download mycleaner](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/mycleaner-package/files/latest/download)
 [![Download mycleaner](https://img.shields.io/sourceforge/dt/mycleaner-package.svg)](https://sourceforge.net/projects/mycleaner-package/files/latest/download)
@@ -28,16 +28,19 @@ zeroing, and deleting files.
 Smart Cleaner
 ==============
 
->Gui utilities for destroying, zeroing, and deleting files.
+>Graphical utility for destroying, zeroing, and deleting files, to complicate or completely impossible to restore them.
 
->Created: Aleksandr Suvorov
+>Author and developer: Aleksandr Suvorov
 
 [![PyPI - Downloads](https://img.shields.io/pypi/dm/smartcleaner?label=pypi%20downloads)](https://pypi.org/project/smartcleaner)
 [![PyPI](https://img.shields.io/pypi/v/smartcleaner)](https://pypi.org/project/smartcleaner)
 [![PyPI - Format](https://img.shields.io/pypi/format/smartcleaner)](https://pypi.org/project/smartcleaner)
 [![GitHub](https://img.shields.io/github/license/mysmarthub/smartcleaner)](https://github.com/mysmarthub/smartcleaner)
+![GitHub repo size](https://img.shields.io/github/repo-size/mysmarthub/smartcleaner)
 [![GitHub Repo stars](https://img.shields.io/github/stars/mysmarthub/smartcleaner?style=social)](https://github.com/mysmarthub/smartcleaner)
+![GitHub watchers](https://img.shields.io/github/watchers/mysmarthub/smartcleaner?style=social)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/mysmarthub/smartcleaner)](https://github.com/mysmarthub/smartcleaner)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/mysmarthub/smartcleaner)
 
 [![Download Smart Cleaner](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/smartcleaner/files/latest/download)
 [![Download Smart Cleaner](https://img.shields.io/sourceforge/dt/smartcleaner.svg)](https://sourceforge.net/projects/smartcleaner/files/latest/download)
@@ -52,16 +55,16 @@ Smart Cleaner Windows version download:
 [![Download Smart Cleaner (For Windows)](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/smart-cleaner-for-windows/files/latest/download)
 [![Download Smart Cleaner (For Windows)](https://img.shields.io/sourceforge/dt/smart-cleaner-for-windows.svg)](https://sourceforge.net/projects/smart-cleaner-for-windows/files/latest/download)
 
-[Github - Smart Cleaner (For Windorws)](https://github.com/mysmarthub/winsmartcleaner)
+[Github - Smart Cleaner (For Windows)](https://github.com/mysmarthub/winsmartcleaner)
 
 
 ---
 Commandoro
 ===
 
->Utility for automatic command execution
+>Console and graphical utility for automating command execution.
 
->Created: Aleksandr Suvorov
+>Author and developer: Aleksandr Suvorov
 ---
 [![Commandoro](https://github.com/mysmarthub/commandoro/raw/master/images/commandoro_logo.png)](https://github.com/mysmarthub/commandoro)
 [![Commandoro](https://github.com/mysmarthub/commandoro/raw/master/images/commandoro_gui_logo.png)](https://github.com/mysmarthub/commandoro)
@@ -73,9 +76,11 @@ Commandoro
 [![GitHub all releases](https://img.shields.io/github/downloads/mysmarthub/commandoro/total)](https://github.com/mysmarthub/commandoro)
 [![GitHub](https://img.shields.io/github/license/mysmarthub/commandoro)](https://github.com/mysmarthub/commandoro)
 [![GitHub Repo stars](https://img.shields.io/github/stars/mysmarthub/commandoro?style=social)](https://github.com/mysmarthub/commandoro)
+![GitHub watchers](https://img.shields.io/github/watchers/mysmarthub/commandoro?style=social)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/mysmarthub/commandoro)](https://github.com/mysmarthub/commandoro)
 ![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/mysmarthub/commandoro)
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/mysmarthub/commandoro)](https://github.com/mysmarthub/commandoro)
+![GitHub repo size](https://img.shields.io/github/repo-size/mysmarthub/commandoro)
 
 ---
 [![Download Commandoro](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/commandoro/files/latest/download)
@@ -85,9 +90,9 @@ Commandoro
 Smart Files Destroyer
 ===
     
->Console utilities for destruction, zeroing, and deleting files.
+>CLI utility for destroying, zeroing, and deleting files.
 
->Created: Aleksandr Suvorov
+>Author and developer: Aleksandr Suvorov
 
 ![Smart Files Destroyer](https://github.com/mysmarthub/sfd/raw/master/images/sfd_logo.png)
 
@@ -98,7 +103,9 @@ Smart Files Destroyer
 [![GitHub all releases](https://img.shields.io/github/downloads/mysmarthub/sfd/total?label=github%20downloads)](https://github.com/mysmarthub/sfd/)
 [![GitHub](https://img.shields.io/github/license/mysmarthub/sfd?style=flat-square)](https://github.com/mysmarthub/sfd/)
 [![GitHub Repo stars](https://img.shields.io/github/stars/mysmarthub/sfd?style=social)](https://github.com/mysmarthub/sfd/)
+![GitHub watchers](https://img.shields.io/github/watchers/mysmarthub/sfd?style=social)
 [![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/mysmarthub/sfd)](https://github.com/mysmarthub/sfd/)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/mysmarthub/sfd)
 
 ---
 [![Download Smart Files Destroyer](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/smart-files-destroyer/files/latest/download)
@@ -110,9 +117,9 @@ Smart Files Destroyer
 Linux Auto Fix
 ===
 
->Console utility for auto-configuration of Linux distributions after installation
+>Console utility for automatic command execution, and auto-tuning Linux distributions after installation
 
->Created: Aleksandr Suvorov
+>Author and developer: Aleksandr Suvorov
 ---
 
 ![Linux Auto Fix](https://github.com/mysmarthub/linuxautofix/raw/master/images/linuxautofix_logo.png)
@@ -126,6 +133,7 @@ Linux Auto Fix
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/mysmarthub/linuxautofix)](https://github.com/mysmarthub/linuxautofix/)
 [![GitHub repo size](https://img.shields.io/github/repo-size/mysmarthub/linuxautofix)](https://github.com/mysmarthub/linuxautofix/)
 [![GitHub Repo stars](https://img.shields.io/github/stars/mysmarthub/linuxautofix?style=social)](https://github.com/mysmarthub/linuxautofix/)
+![GitHub watchers](https://img.shields.io/github/watchers/mysmarthub/linuxautofix?style=social)
 
 ---
 [![Download Linux Auto Fix](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/linuxautofix/files/latest/download)

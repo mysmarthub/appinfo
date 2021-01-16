@@ -48,7 +48,7 @@ Projects information
 ---
 
 [Smart Cleaner Windows version download:](https://sourceforge.net/projects/smart-cleaner-for-windows/files/latest/download)
----
+
 
 ![Smart Cleaner](https://github.com/mysmarthub/smartcleaner/raw/master/images/smart_cleaner_logo.png)
 
@@ -65,7 +65,7 @@ Projects information
 >Console and graphical utility for automating command execution.
 
 >Author and developer: Aleksandr Suvorov
----
+
 [![Commandoro](https://github.com/mysmarthub/commandoro/raw/master/images/commandoro_logo.png)](https://github.com/mysmarthub/commandoro)
 [![Commandoro](https://github.com/mysmarthub/commandoro/raw/master/images/commandoro_gui_logo.png)](https://github.com/mysmarthub/commandoro)
 
@@ -120,7 +120,6 @@ Projects information
 >Console utility for automatic command execution, and auto-tuning Linux distributions after installation
 
 >Author and developer: Aleksandr Suvorov
----
 
 ![Linux Auto Fix](https://github.com/mysmarthub/linuxautofix/raw/master/images/linuxautofix_logo.png)
 
@@ -142,6 +141,154 @@ Projects information
 
 
 ---
+
+[BlockChain](https://github.com/mysmarthub/blockchain)
+===
+![GitHub](https://img.shields.io/github/license/mysmarthub/blockchain)
+![GitHub all releases](https://img.shields.io/github/downloads/mysmarthub/blockchain/total)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/mysmarthub/blockchain)
+
+---
+
+[My Shop (Django)](https://github.com/mysmarthub/myshop)
+===
+
+    Online store on Django, Python
+>Developer: Aleksandr Suvorov
+
+
+![GitHub language count](https://img.shields.io/github/languages/count/mysmarthub/myshop)
+![GitHub repo size](https://img.shields.io/github/repo-size/mysmarthub/myshop)
+![GitHub all releases](https://img.shields.io/github/downloads/mysmarthub/myshop/total)
+![GitHub](https://img.shields.io/github/license/mysmarthub/myshop)
+![GitHub Repo stars](https://img.shields.io/github/stars/mysmarthub/myshop?style=social)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/mysmarthub/myshop)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/mysmarthub/myshop)
+
+
+---
+[My Blog (Django)](https://github.com/mysmarthub/myblog)
+=====
+
+    Web application "My Blog" on Django - simple blog on Django/Python
+
+>Developer: Aleksandr Suvorov
+
+
+![GitHub language count](https://img.shields.io/github/languages/count/mysmarthub/myblog)
+![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/mysmarthub/myblog/django)
+![GitHub repo size](https://img.shields.io/github/repo-size/mysmarthub/myblog)
+![GitHub all releases](https://img.shields.io/github/downloads/mysmarthub/myblog/total)
+![GitHub](https://img.shields.io/github/license/mysmarthub/myblog)
+![GitHub Repo stars](https://img.shields.io/github/stars/mysmarthub/myblog?style=social)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/mysmarthub/myblog)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/django)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/mysmarthub/myblog)
+
+---
+
+
+[Blog (Flask/Python)](https://github.com/mysmarthub/flask_blog)
+==========
+
+    Simple blog on Flask
+>Developer: Aleksandr Suvorov
+
+
+![GitHub language count](https://img.shields.io/github/languages/count/mysmarthub/flask_blog)
+![GitHub top language](https://img.shields.io/github/languages/top/mysmarthub/flask_blog)
+![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/mysmarthub/flask_blog/flask)
+![GitHub repo size](https://img.shields.io/github/repo-size/mysmarthub/flask_blog)
+![GitHub all releases](https://img.shields.io/github/downloads/mysmarthub/flask_blog/total)
+![GitHub](https://img.shields.io/github/license/mysmarthub/flask_blog)
+![GitHub Repo stars](https://img.shields.io/github/stars/mysmarthub/flask_blog?style=social)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/mysmarthub/flask_blog)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/mysmarthub/flask_blog)
+
+---
+
+[My Educations (Django, Python)](https://github.com/mysmarthub/educa)
+==============
+
+>Web application on Django - Online learning platform
+
+>Developer: Aleksandr Suvorov
+
+
+![GitHub language count](https://img.shields.io/github/languages/count/mysmarthub/educa)
+![GitHub top language](https://img.shields.io/github/languages/top/mysmarthub/educa)
+![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/mysmarthub/educa/django)
+![GitHub repo size](https://img.shields.io/github/repo-size/mysmarthub/educa)
+![GitHub all releases](https://img.shields.io/github/downloads/mysmarthub/educa/total)
+![GitHub](https://img.shields.io/github/license/mysmarthub/educa)
+![GitHub Repo stars](https://img.shields.io/github/stars/mysmarthub/educa?style=social)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/mysmarthub/educa)
+![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/mysmarthub/educa)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/mysmarthub/educa)
+
+---
+
+[Newspaper (Django Project)](https://github.com/mysmarthub/newspaper)
+================
+
+>Web application "Newspaper" on Django/Python
+
+>Developer: Aleksandr Suvorov
+
+
+![GitHub language count](https://img.shields.io/github/languages/count/mysmarthub/newspaper)
+![GitHub top language](https://img.shields.io/github/languages/top/mysmarthub/newspaper)
+![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/mysmarthub/newspaper/django)
+![GitHub repo size](https://img.shields.io/github/repo-size/mysmarthub/newspaper)
+![GitHub all releases](https://img.shields.io/github/downloads/mysmarthub/newspaper/total)
+![GitHub](https://img.shields.io/github/license/mysmarthub/newspaper)
+![GitHub Repo stars](https://img.shields.io/github/stars/mysmarthub/newspaper?style=social)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/mysmarthub/newspaper)
+![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/mysmarthub/newspaper)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/mysmarthub/newspaper)
+
+---
+
+
+[Bulletin Board](https://github.com/mysmarthub/bboard)
+===
+
+> Web application "Bulletin Board" on Django
+
+> Developer: Aleksandr Suvorov
+
+
+![GitHub language count](https://img.shields.io/github/languages/count/mysmarthub/bboard)
+![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/mysmarthub/bboard/django)
+![GitHub repo size](https://img.shields.io/github/repo-size/mysmarthub/bboard)
+![GitHub all releases](https://img.shields.io/github/downloads/mysmarthub/bboard/total)
+![GitHub](https://img.shields.io/github/license/mysmarthub/bboard)
+![GitHub Repo stars](https://img.shields.io/github/stars/mysmarthub/bboard?style=social)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/mysmarthub/bboard)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/django)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/mysmarthub/bboard)
+
+---
+
+[Bookmarks (Django)](https://github.com/mysmarthub/bookmarks)
+===
+    Web aplication - "Bookmarks" - mini social network with the ability to share photos found on the Internet
+    Used Python/Django
+
+>Developer: Aleksandr Suvorov
+
+
+![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/mysmarthub/bookmarks/django)
+![GitHub language count](https://img.shields.io/github/languages/count/mysmarthub/bookmarks)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/mysmarthub/bookmarks)
+![GitHub all releases](https://img.shields.io/github/downloads/mysmarthub/bookmarks/total)
+![GitHub](https://img.shields.io/github/license/mysmarthub/bookmarks)
+![GitHub Repo stars](https://img.shields.io/github/stars/mysmarthub/bookmarks?style=social)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/mysmarthub/bookmarks)
+![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/mysmarthub/bookmarks)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/mysmarthub/bookmarks)
+---
+
 
 [Mpassgen](https://github.com/mysmarthub/mpassgen)
 ===

@@ -58,6 +58,36 @@ Projects information
 [Github - Smart Cleaner (For Windows)](https://github.com/mysmarthub/winsmartcleaner)
 
 
+Smart Password Generator
+================================================
+
+[![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/mysmarthub/smartpassgen)](https://github.com/mysmarthub/smartpassgen/)
+[![mysmarthub@ya.ru](https://img.shields.io/static/v1?label=email&message=mysmarthub@ya.ru&color=blue)](mailto:mysmarthub@ya.ru)
+[![Donate](https://img.shields.io/static/v1?label=donate&message=paypal&color=green)](https://paypal.me/myhackband)
+[![Donate](https://img.shields.io/static/v1?label=donate&message=yandex&color=yellow)](https://yoomoney.ru/to/4100115206129186)
+
+---
+
+> Author and developer: Aleksandr Suvorov
+
+---
+
+[![PyPI](https://img.shields.io/pypi/v/smartpassgen)](https://pypi.org/project/smartpassgen)
+[![PyPI - Format](https://img.shields.io/pypi/format/smartpassgen)](https://pypi.org/project/smartpassgen)
+[![PyPI - Downloads](https://img.shields.io/pypi/dm/smartpassgen?label=pypi%20downloads)](https://pypi.org/project/smartpassgen)
+[![GitHub all releases](https://img.shields.io/github/downloads/mysmarthub/smartpassgen/total?label=github%20downloads)](https://github.com/mysmarthub/smartpassgen/)
+![GitHub](https://img.shields.io/github/license/mysmarthub/smartpassgen?style=flat-square)
+[![GitHub Repo stars](https://img.shields.io/github/stars/mysmarthub/smartpassgen?style=social)](https://github.com/mysmarthub/smartpassgen/)
+![GitHub watchers](https://img.shields.io/github/watchers/mysmarthub/smartpassgen?style=social)
+![GitHub forks](https://img.shields.io/github/forks/mysmarthub/smartpassgen?style=social)
+
+---
+
+![Smart Pass Gen](https://github.com/mysmarthub/smartpassgen/raw/master/images/smartpassgen_logo.png)
+
+---
+
+
 ---
 [Commandoro](https://github.com/mysmarthub/commandoro)
 ===

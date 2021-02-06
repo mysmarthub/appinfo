@@ -87,8 +87,30 @@ Smart Password Generator
 
 ---
 
+[Smart Password Manager](https://github.com/mysmarthub/smartpassman/)
+================================================
+
+[![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/mysmarthub/smartpassman)](https://github.com/mysmarthub/smartpassman/)
+---
+
+> Author and developer: Aleksandr Suvorov
 
 ---
+
+[![PyPI](https://img.shields.io/pypi/v/smartpassman)](https://pypi.org/project/smartpassman)
+[![PyPI - Format](https://img.shields.io/pypi/format/smartpassman)](https://pypi.org/project/smartpassman)
+[![PyPI - Downloads](https://img.shields.io/pypi/dm/smartpassman?label=pypi%20downloads)](https://pypi.org/project/smartpassman)
+[![GitHub all releases](https://img.shields.io/github/downloads/mysmarthub/smartpassman/total?label=github%20downloads)](https://github.com/mysmarthub/smartpassman/)
+![GitHub](https://img.shields.io/github/license/mysmarthub/smartpassman?style=flat-square)
+[![GitHub Repo stars](https://img.shields.io/github/stars/mysmarthub/smartpassman?style=social)](https://github.com/mysmarthub/smartpassman/)
+![GitHub watchers](https://img.shields.io/github/watchers/mysmarthub/smartpassman?style=social)
+![GitHub forks](https://img.shields.io/github/forks/mysmarthub/smartpassman?style=social)
+
+---
+
+![Smart Password Manager](https://github.com/mysmarthub/smartpassman/raw/master/images/smartpassman_logo.png)
+
+-------------------------------------------------------------------------
 [Commandoro](https://github.com/mysmarthub/commandoro)
 ===
 
